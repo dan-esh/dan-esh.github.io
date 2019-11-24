@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),l=a("Bl7J"),o=a("hIod");t.default=function(){return r.a.createElement(l.a,null,r.a.createElement(o.a,{title:"Contact"}),r.a.createElement("h1",null,"Contact"),r.a.createElement("p",null,"The best way to reach me is via ",r.a.createElement("a",{href:"mailto: td.abeyratne@gmail.com",target:"_blank",rel:"noopener noreferrer"},"email"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-aa94806afd6b7878b773.js.map
